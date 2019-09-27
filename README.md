@@ -1,2 +1,2 @@
 # uu-accelerator
-uu加速器
+uu加速器的项目
